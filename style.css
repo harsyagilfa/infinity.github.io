@@ -1,0 +1,21 @@
+.banner {
+  background: url('https://wallpapercave.com/wp/wp1879490.jpg') no-repeat center center;
+  background-size: cover;
+  padding-top: 30%;
+  padding-bottom: 20%;
+  color: white;
+}
+.produk {
+  background: url('https://images6.alphacoders.com/698/thumb-1920-698249.jpg') no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: white;
+}
+.contact {
+  background: url('https://wallpaperaccess.com/full/1867010.jpg') no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: white;
+}
